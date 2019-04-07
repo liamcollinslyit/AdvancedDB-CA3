@@ -1200,6 +1200,39 @@ ORDER BY [Percentage In Top Positions] DESC</CommandText>
                   <BackgroundColor>Teal</BackgroundColor>
                 </Style>
               </Rectangle>
+              <Textbox Name="ExecutionTime">
+                <CanGrow>true</CanGrow>
+                <KeepTogether>true</KeepTogether>
+                <Paragraphs>
+                  <Paragraph>
+                    <TextRuns>
+                      <TextRun>
+                        <Value>=Globals!ExecutionTime</Value>
+                        <Style>
+                          <Format>d</Format>
+                          <Color>White</Color>
+                        </Style>
+                      </TextRun>
+                    </TextRuns>
+                    <Style />
+                  </Paragraph>
+                </Paragraphs>
+                <rd:DefaultName>ExecutionTime</rd:DefaultName>
+                <Top>1.93528cm</Top>
+                <Left>24.42797cm</Left>
+                <Height>0.6cm</Height>
+                <Width>2.5cm</Width>
+                <ZIndex>4</ZIndex>
+                <Style>
+                  <Border>
+                    <Style>None</Style>
+                  </Border>
+                  <PaddingLeft>2pt</PaddingLeft>
+                  <PaddingRight>2pt</PaddingRight>
+                  <PaddingTop>2pt</PaddingTop>
+                  <PaddingBottom>2pt</PaddingBottom>
+                </Style>
+              </Textbox>
             </ReportItems>
             <KeepTogether>true</KeepTogether>
             <Top>1.27236cm</Top>

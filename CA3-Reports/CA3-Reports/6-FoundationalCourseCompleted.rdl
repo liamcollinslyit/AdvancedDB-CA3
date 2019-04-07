@@ -64,7 +64,6 @@ FROM School</CommandText>
                                 </Paragraph>
                               </Paragraphs>
                               <rd:DefaultName>Textbox146</rd:DefaultName>
-                              <Left>0cm</Left>
                               <Height>0.6cm</Height>
                               <Width>27.72172cm</Width>
                               <Style>
@@ -103,7 +102,6 @@ FROM School</CommandText>
                               </ReportItems>
                               <KeepTogether>true</KeepTogether>
                               <Top>0.6cm</Top>
-                              <Left>0cm</Left>
                               <Height>4.89667cm</Height>
                               <Width>7.98979cm</Width>
                               <ZIndex>1</ZIndex>
@@ -174,7 +172,6 @@ FROM School</CommandText>
                               </ReportItems>
                               <KeepTogether>true</KeepTogether>
                               <Top>5.49667cm</Top>
-                              <Left>0cm</Left>
                               <Height>3.12159cm</Height>
                               <Width>27.44564cm</Width>
                               <ZIndex>3</ZIndex>
@@ -239,10 +236,10 @@ FROM School</CommandText>
             </Style>
           </Tablix>
         </ReportItems>
-        <Height>4.08746in</Height>
+        <Height>3.54927in</Height>
         <Style />
       </Body>
-      <Width>11.07352in</Width>
+      <Width>11.33394in</Width>
       <Page>
         <PageHeader>
           <Height>3.4249cm</Height>
