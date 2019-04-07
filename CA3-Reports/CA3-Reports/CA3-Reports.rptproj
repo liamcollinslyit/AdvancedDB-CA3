@@ -4,8 +4,8 @@
     <FullPath>Debug</FullPath>
     <OutputPath>bin\Debug</OutputPath>
     <ErrorLevel>2</ErrorLevel>
-    <OverwriteDatasets>False</OverwriteDatasets>
-    <OverwriteDataSources>False</OverwriteDataSources>
+    <OverwriteDatasets>True</OverwriteDatasets>
+    <OverwriteDataSources>True</OverwriteDataSources>
     <TargetServerVersion>SSRS2016</TargetServerVersion>
     <Platform>Win32</Platform>
     <TargetReportFolder>CA3-Reports</TargetReportFolder>
@@ -53,7 +53,14 @@
   </ItemGroup>
   <ItemGroup>
     <Report Include="1-MBAInfo.rdl" />
+    <Report Include="2-MBAQualityIndicator.rdl" />
+    <Report Include="3-ExistingModules.rdl" />
+    <Report Include="4-Management Positions.rdl" />
     <Report Include="5-MBAICCSBAccreditation.rdl" />
+    <Report Include="6-FoundationalCourseCompleted.rdl" />
+    <Report Include="6-SubReportCompleted.rdl" />
+    <Report Include="6-SubReportIncomplete.rdl" />
+    <Report Include="6-SubReportIncompleteGradYear.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>

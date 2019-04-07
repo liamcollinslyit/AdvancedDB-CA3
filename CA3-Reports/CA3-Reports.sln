@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CA3-Reports", "CA3-Reports\CA3-Reports.rptproj", "{CD6CFD79-9101-4E30-9910-7EE28AB6FDD0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C851AC1-086A-49F8-AF3F-6A77A25CC3AD}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\Cert.png = ..\..\..\..\Downloads\Cert.png
+		..\..\..\..\Downloads\Hat.png = ..\..\..\..\Downloads\Hat.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Default = Debug|Default
