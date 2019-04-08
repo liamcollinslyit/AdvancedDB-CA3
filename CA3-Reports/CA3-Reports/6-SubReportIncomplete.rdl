@@ -1697,7 +1697,7 @@ SUM(IIf(Fields!Module_Completed_Status.Value="Incomplete",1,0)))*100 &amp; "% Co
                               <DataSetName>FoundationalCoursesIncomplete</DataSetName>
                               <Top>0.4758in</Top>
                               <Height>1.06in</Height>
-                              <Width>10.44792in</Width>
+                              <Width>10.44791in</Width>
                               <Style>
                                 <FontFamily />
                               </Style>

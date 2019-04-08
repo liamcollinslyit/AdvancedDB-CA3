@@ -474,9 +474,6 @@ ORDER BY SchoolName</CommandText>
                     <Height>1.2cm</Height>
                     <Width>5.48167cm</Width>
                     <ZIndex>1</ZIndex>
-                    <Visibility>
-                      <ToggleItem>TbxPerYear</ToggleItem>
-                    </Visibility>
                     <Style>
                       <Border>
                         <Color>White</Color>
@@ -892,9 +889,6 @@ ORDER BY SchoolName</CommandText>
                     <Height>1.2cm</Height>
                     <Width>19.08373cm</Width>
                     <ZIndex>2</ZIndex>
-                    <Visibility>
-                      <ToggleItem>TbxCEO</ToggleItem>
-                    </Visibility>
                     <Style>
                       <Border>
                         <Style>None</Style>
@@ -1390,9 +1384,6 @@ ORDER BY SchoolName</CommandText>
                     <Height>1.2cm</Height>
                     <Width>21.78743cm</Width>
                     <ZIndex>3</ZIndex>
-                    <Visibility>
-                      <ToggleItem>Tbx60K</ToggleItem>
-                    </Visibility>
                     <Style>
                       <Border>
                         <Style>None</Style>
@@ -1886,9 +1877,6 @@ ORDER BY SchoolName</CommandText>
                     <Height>1.2cm</Height>
                     <Width>21.78743cm</Width>
                     <ZIndex>4</ZIndex>
-                    <Visibility>
-                      <ToggleItem>TbxOver3</ToggleItem>
-                    </Visibility>
                     <Style>
                       <Border>
                         <Style>None</Style>
@@ -2115,8 +2103,8 @@ ORDER BY SchoolName</CommandText>
       </Body>
       <Width>11.58959in</Width>
       <Page>
-        <PageHeight>29.7cm</PageHeight>
-        <PageWidth>21cm</PageWidth>
+        <PageHeight>21cm</PageHeight>
+        <PageWidth>36cm</PageWidth>
         <LeftMargin>2cm</LeftMargin>
         <RightMargin>2cm</RightMargin>
         <TopMargin>2cm</TopMargin>

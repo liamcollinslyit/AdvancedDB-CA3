@@ -1624,7 +1624,7 @@ GROUP BY GradYear
                       <VerticalAlign>Top</VerticalAlign>
                       <Color>White</Color>
                     </Style>
-                    <Position>TopLeft</Position>
+                    <DockOutsideChartArea>true</DockOutsideChartArea>
                   </ChartTitle>
                 </ChartTitles>
                 <Palette>Pacific</Palette>
@@ -2399,7 +2399,7 @@ GROUP BY GradYear
             <KeepTogether>true</KeepTogether>
             <Top>6.04777cm</Top>
             <Height>35.35229cm</Height>
-            <Width>36.09097cm</Width>
+            <Width>36.90236cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -2434,9 +2434,9 @@ GROUP BY GradYear
                 <Width>2.5cm</Width>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -2469,9 +2469,9 @@ GROUP BY GradYear
                 <ZIndex>1</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -2505,9 +2505,9 @@ GROUP BY GradYear
                 <ZIndex>2</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -2540,9 +2540,9 @@ GROUP BY GradYear
                 <ZIndex>3</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -2575,9 +2575,9 @@ GROUP BY GradYear
                 <ZIndex>4</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -2611,9 +2611,9 @@ GROUP BY GradYear
                 <ZIndex>5</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -2661,7 +2661,7 @@ GROUP BY GradYear
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Average number of grduates with top managment positions per year:</Value>
+                        <Value>Average number of graduates with top management positions per year:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -2674,9 +2674,8 @@ GROUP BY GradYear
                 </Paragraphs>
                 <rd:DefaultName>Textbox28</rd:DefaultName>
                 <Top>3.42195cm</Top>
-                <Left>0.62175cm</Left>
                 <Height>0.6cm</Height>
-                <Width>10.96667cm</Width>
+                <Width>11.58842cm</Width>
                 <ZIndex>7</ZIndex>
                 <Style>
                   <Border>
@@ -2695,7 +2694,7 @@ GROUP BY GradYear
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Average gradute GPA:</Value>
+                        <Value>Average graduate GPA:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -2763,7 +2762,7 @@ GROUP BY GradYear
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Average student/faculalty radio of schools per year:</Value>
+                        <Value>Average student/facualty radio of schools per year:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -2797,7 +2796,7 @@ GROUP BY GradYear
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Total Number of ICCSB Accrediated Schools:</Value>
+                        <Value>Total Number of ICCSB Accredited Schools:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -3032,8 +3031,8 @@ GROUP BY GradYear
             </Border>
           </Style>
         </PageHeader>
-        <PageHeight>29.7cm</PageHeight>
-        <PageWidth>21cm</PageWidth>
+        <PageHeight>42cm</PageHeight>
+        <PageWidth>42cm</PageWidth>
         <LeftMargin>2cm</LeftMargin>
         <RightMargin>2cm</RightMargin>
         <TopMargin>2cm</TopMargin>

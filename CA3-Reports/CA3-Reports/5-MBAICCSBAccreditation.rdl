@@ -55,7 +55,7 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                           <Paragraph>
                             <TextRuns>
                               <TextRun>
-                                <Value>ICCSB Accrediated Schools:</Value>
+                                <Value>ICCSB Accredited Schools:</Value>
                                 <Style>
                                   <FontSize>14pt</FontSize>
                                   <FontWeight>Bold</FontWeight>
@@ -593,7 +593,7 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                           <Paragraph>
                             <TextRuns>
                               <TextRun>
-                                <Value>Non ICCSB Accrediated Schools:</Value>
+                                <Value>Non ICCSB Accredited Schools:</Value>
                                 <Style>
                                   <FontSize>14pt</FontSize>
                                   <FontWeight>Bold</FontWeight>
@@ -728,9 +728,9 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                 <Width>2.02375cm</Width>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -763,9 +763,9 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                 <ZIndex>1</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -779,7 +779,7 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Number of ICCSB Accrediated Schools:</Value>
+                        <Value>Number of ICCSB Accredited Schools:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -813,7 +813,7 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Number of Non ICCSB Accrediated Schools:</Value>
+                        <Value>Number of Non ICCSB Accredited Schools:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -903,9 +903,9 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                 <ZIndex>5</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -938,9 +938,9 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                 <ZIndex>6</ZIndex>
                 <Style>
                   <Border>
-                    <Style>None</Style>
+                    <Color>White</Color>
+                    <Style>Solid</Style>
                   </Border>
-                  <BackgroundColor>CornflowerBlue</BackgroundColor>
                   <PaddingLeft>2pt</PaddingLeft>
                   <PaddingRight>2pt</PaddingRight>
                   <PaddingTop>2pt</PaddingTop>
@@ -988,7 +988,7 @@ ORDER BY [Years accrediated] DESC;</CommandText>
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>Year last Schools was ICCSB Accrediated:</Value>
+                        <Value>Year last school was ICCSB Accredited:</Value>
                         <Style>
                           <Color>White</Color>
                         </Style>
@@ -1175,8 +1175,8 @@ ORDER BY [Years accrediated] DESC;</CommandText>
             </Border>
           </Style>
         </PageHeader>
-        <PageHeight>29.7cm</PageHeight>
-        <PageWidth>21cm</PageWidth>
+        <PageHeight>24cm</PageHeight>
+        <PageWidth>32cm</PageWidth>
         <LeftMargin>2cm</LeftMargin>
         <RightMargin>2cm</RightMargin>
         <TopMargin>2cm</TopMargin>

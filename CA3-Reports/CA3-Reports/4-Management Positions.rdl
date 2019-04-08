@@ -62,7 +62,7 @@ ORDER BY [Percentage In Top Positions] DESC</CommandText>
                   <Paragraph>
                     <TextRuns>
                       <TextRun>
-                        <Value>MBA Programs: Managment Positions</Value>
+                        <Value>MBA Programs: Management Positions</Value>
                         <Style>
                           <FontStyle>Normal</FontStyle>
                           <FontFamily>Calibri</FontFamily>
@@ -1252,13 +1252,13 @@ ORDER BY [Percentage In Top Positions] DESC</CommandText>
             </Style>
           </Rectangle>
         </ReportItems>
-        <Height>7.95684in</Height>
+        <Height>7.68099in</Height>
         <Style />
       </Body>
-      <Width>11.83581in</Width>
+      <Width>10.85156in</Width>
       <Page>
-        <PageHeight>29.7cm</PageHeight>
-        <PageWidth>21cm</PageWidth>
+        <PageHeight>41cm</PageHeight>
+        <PageWidth>32cm</PageWidth>
         <LeftMargin>2cm</LeftMargin>
         <RightMargin>2cm</RightMargin>
         <TopMargin>2cm</TopMargin>

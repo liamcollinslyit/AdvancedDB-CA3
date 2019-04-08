@@ -990,13 +990,13 @@ FROM
             </Style>
           </Rectangle>
         </ReportItems>
-        <Height>5.21875in</Height>
+        <Height>3.38925in</Height>
         <Style />
       </Body>
-      <Width>12.82487in</Width>
+      <Width>11.01953in</Width>
       <Page>
-        <PageHeight>29.7cm</PageHeight>
-        <PageWidth>21cm</PageWidth>
+        <PageHeight>15cm</PageHeight>
+        <PageWidth>35cm</PageWidth>
         <LeftMargin>2cm</LeftMargin>
         <RightMargin>2cm</RightMargin>
         <TopMargin>2cm</TopMargin>

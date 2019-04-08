@@ -328,7 +328,7 @@ FROM School</CommandText>
             <DataSetName>IncompleteGradYear</DataSetName>
             <Top>1.2791cm</Top>
             <Height>1.2cm</Height>
-            <Width>13.71771cm</Width>
+            <Width>13.7177cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -350,8 +350,9 @@ FROM School</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Students with incomplete foundational courses planing to graduate within 2 years:</Value>
+                    <Value>Students with incomplete foundational courses planning to graduate within 2 years:</Value>
                     <Style>
+                      <FontSize>9pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                       <Color>White</Color>
                     </Style>
